@@ -1,7 +1,6 @@
 # Nuber
 
 array = []
-
 count = 10
 
 while count <= 100 do
